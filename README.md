@@ -18,8 +18,7 @@
   - Authentication (JWT, Identity)
 
 - 🗄 *قواعد البيانات*:  
-  - Microsoft SQL Server  
-  - MySQL  
+  - Microsoft SQL Server   
   - EF Code First & Database First
 
 - ☁ *أدوات وخدمات*:  
@@ -30,7 +29,6 @@
 
 - 🌐 *Front-end (أساسيات)*:  
   - HTML, CSS, JavaScript  
-  - Razor Pages
 
 ---
 
